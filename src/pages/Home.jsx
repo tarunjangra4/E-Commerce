@@ -15,13 +15,13 @@ function Home() {
       <ProudProducts />
       <Banner
         title="Creative harmonious living"
-        text=" RAOUF Products are all made to standard sizes so that you can mix and match them freely."
+        text=" Our Products are all made to standard sizes so that you can mix and match them freely."
         img={Banner1}
       />
       <TrendingSlider />
       <BannerReverse
         title="Comfortable & Elegante Living"
-        text=" RAOUF Products are all made to standard sizes so that you can mix and match them freely."
+        text=" Our Products are all made to standard sizes so that you can mix and match them freely."
         img={Banner2}
       />
       <Newsletter />
